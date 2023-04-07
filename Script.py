@@ -192,10 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
 <b>
-
-
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @Movie_Zone_C1
 ▫️ ɢʀᴏᴜᴘ : @Movie_Request_Z
