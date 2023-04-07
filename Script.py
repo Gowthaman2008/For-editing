@@ -194,13 +194,11 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
+
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @Movie_Zone_C1
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @Movie_Request_Z
+▫️ ɢʀᴏᴜᴘ : @Movie_Request_Z
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
