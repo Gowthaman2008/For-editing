@@ -271,7 +271,7 @@ async def next_page(bot, query):
                     ],
                 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ HOW TO DOWNLOAD ⚡", url=f"https://t.me/HTD_Tn_links/8")
+        InlineKeyboardButton("⚡ HOW TO DOWNLOAD ⚡", url="https://t.me/HTD_Tn_links/8")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1446,14 +1446,10 @@ async def auto_filter(client, msg, spoll=False):
                     InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
                     InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
                 ]
-            )
+            
 
     btn.insert(0, [
-        InlineKeyboardButton("Send All !", callback_data=f"send_fall#{pre}#{message.chat.id}-{message.id}#{0}")
-    ])
-
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⚡ HOW TO DOWNLOAD ⚡", url="https://t.me/HTD_Tn_links/8")
     ])
 
     if offset != "":
